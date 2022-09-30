@@ -2,7 +2,7 @@
 #
 # Created by: Evgeny Vovk
 # Created on: September 2022
-# ICS3U-Unit2-04.py File, learning input process and output in python.
+# ICS3U-Unit2-04.py File, learning pseudo-code in python.
 
 import constants
 
