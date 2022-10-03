@@ -17,7 +17,9 @@ def main():
     total = pizza_cost * constants.HST
 
     # output
-    print("\nThe cost of the pizza for {0} inches is ${1:,.2f}.".format(diameter, total))
+    print(
+        "\nThe cost of the pizza for {0} inches is ${1:,.2f}.".format(diameter, total)
+    )
 
     print("\n\nDone.")
 
